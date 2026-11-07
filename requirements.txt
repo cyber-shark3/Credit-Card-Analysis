@@ -1,0 +1,5 @@
+%%write file requirements.txt
+
+streamlit
+pandas
+plotly
